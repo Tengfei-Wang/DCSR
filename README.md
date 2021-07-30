@@ -3,7 +3,7 @@ Implementation for our ICCV 2021 paper: Reference-based Super-resolution with Al
 
 [paper]( ) | [project website]( ) | [dataset]( ) | [demo video]( )
 
-<img src="pics/demo.png" width="680px"/> 
+<img src="pics/demo.png" width="720px"/> 
 
 ## Introduction
 
