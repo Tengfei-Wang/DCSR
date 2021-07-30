@@ -5,3 +5,12 @@ Implementation for our ICCV 2021 paper: Reference-based Super-resolution with Al
 [paper]( ) | [project website]( ) | [dataset]( ) | [demo video]( )
 
 ## Introduction
+
+## Setup
+### Installation
+```
+git clone https://github.com/Tengfei-Wang/DualCameraSR.git
+cd DualCameraSR
+```
+
+### Environment
