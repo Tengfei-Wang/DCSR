@@ -6,6 +6,7 @@ Implementation for our ICCV 2021 paper: Reference-based Super-resolution with Al
 <img src="pics/demo.png" width="720px"/> 
 
 ## Introduction
+We present a novel approach to reference-based super-resolution (RefSR) with the focus on real-world dual-camera super-resolution (DCSR).
 
 ## Setup
 ### Installation
