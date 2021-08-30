@@ -1,5 +1,5 @@
 # Dual Camera Super-resolution
-Implementation for our ICCV 2021 paper: Reference-based Super-resolution with Aligned Attention Modules
+Implementation for our ICCV 2021 paper: Dual-Camera Super-Resolution with Aligned Attention Modules
 
 [paper]( ) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset]( ) | [demo video]( )
 
