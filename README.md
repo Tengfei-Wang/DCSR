@@ -20,7 +20,7 @@ This code is based on PyTorch.
 
 The environment can be simply set up by Anaconda:
 ```
-conda create -n DCSR python=3.7
+conda create -n DCSR python=3.7R
 conda activate DCSR
 pip install -r requirements.txt
 ```
@@ -31,20 +31,20 @@ pip install -r requirements.txt
 
 ## Quick Start
 ```
-For 4K test, with ground-truth High-Resolution images:
+For 4K test(with ground-truth High-Resolution images):
 sh test.py
 
-For 8K test, without ground-truth High-Resolution images:
+For 8K test(without ground-truth High-Resolution images):
 sh test_8k.sh
 ```
 
 
 ## Training
 ```
+Regular training:
 sh train.sh
 
-After regular training, we can use Self-supervised Real-image Adaptation (SRA):
-
+After regular training, we can use Self-supervised Real-image Adaptation (SRA) to finetune the model for better 8K visual performance:
 sh train_finetune.sh
 
 ```
