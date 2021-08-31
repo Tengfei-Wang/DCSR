@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-Download our CameraFusion dataset from [here](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing).
+Download our CameraFusion dataset from [this link](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing).
 This dataset currently consists of 143 pairs of telephoto and wide-angle images in 4K resolution captured by smartphone dual-cameras.
 ```
 cd DualCameraSR
