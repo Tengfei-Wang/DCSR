@@ -27,13 +27,13 @@ pip install -r requirements.txt
 
 ## Dataset
 Download our CameraFusion dataset from [here](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing).
-'''
+```
 cd DCSR
 mkdir data
 mv CameraFusion.zip ./data
 cd ./data
 unzip CameraFusion.zip
-'''
+```
 
 ## Quick Start
 ```
