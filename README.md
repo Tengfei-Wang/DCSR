@@ -51,9 +51,11 @@ sh test_8k.sh
 Regular training:
 sh train.sh
 
-After regular training, we can use Self-supervised Real-image Adaptation (SRA) to finetune the model for better 8K visual performance:
-sh train_finetune.sh
+```
 
+After regular training, we can use Self-supervised Real-image Adaptation (SRA) to finetune the model for better 8K visual performance:
+```
+sh train_finetune.sh
 ```
 
 ## Citation
