@@ -20,7 +20,7 @@ This code is based on PyTorch.
 
 The environment can be simply set up by Anaconda:
 ```
-conda create -n DCSR python=3.7R
+conda create -n DCSR python=3.7
 conda activate DCSR
 pip install -r requirements.txt
 ```
