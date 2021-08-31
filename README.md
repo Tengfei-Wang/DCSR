@@ -37,23 +37,25 @@ unzip CameraFusion.zip
 For CUFED5 dataset, can be download from [SRNTT repo](https://github.com/ZZUTK/SRNTT).
 
 ## Quick Start
+You may download the pretrained model [here]().
+
 ```
-For 4K test(with ground-truth High-Resolution images):
+For 4K test (with ground-truth High-Resolution images):
 sh test.py
 
-For 8K test(without ground-truth High-Resolution images):
+For 8K test (without ground-truth High-Resolution images):
 sh test_8k.sh
 ```
 
 
 ## Training
+To train the DCSR model on CameraFusion, run:
 ```
-Regular training:
 sh train.sh
-
 ```
+The trained model should perform well on 4K test, but may suffer performance degradation on 8K test.
 
-After regular training, we can use Self-supervised Real-image Adaptation (SRA) to finetune the model for better 8K visual performance:
+After the regular training, we can use Self-supervised Real-image Adaptation (SRA) to finetune the trained model for real-world 8K image applications:
 ```
 sh train_finetune.sh
 ```
@@ -68,5 +70,6 @@ booktitle = {International Conference on Computer Vision (ICCV)},
 year = {2021}
 }
 ```
+
 ##  Acknowledgement
 We thank the authors of [EDSR](https://github.com/sanghyun-son/EDSR-PyTorch), [CSNLN](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention), [TTSR](https://github.com/researchmm/TTSR) and [style-swap](https://github.com/rtqichen/style-swap) for sharing their codes.
