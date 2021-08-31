@@ -25,16 +25,28 @@ conda activate DCSR
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+
 
 ## Quick Start
 ```
-python test.py
+For 4K test, with ground-truth High-Resolution images:
+sh test.py
+
+For 8K test, without ground-truth High-Resolution images:
+sh test_8k.sh
 ```
 
 
 ## Training
 ```
-python test.py
+sh train.sh
+
+After regular training, we can use Self-supervised Real-image Adaptation (SRA):
+
+sh train_finetune.sh
+
 ```
 
 ## Citation
