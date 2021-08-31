@@ -16,23 +16,15 @@ cd DualCameraSR
 ```
 
 ### Environment
-This code is based on tensorflow 2.x  (tested on tensorflow 2.0, 2.2, 2.4).
+This code is based on PyTorch.
 
 The environment can be simply set up by Anaconda:
 ```
-conda create -n IIVI python=3.7
-conda activate IIVI
-conda install tensorflow-gpu tensorboard
-pip install pyaml 
-pip install opencv-python
-pip install tensorflow-addons
+conda create -n DCSR python=3.7
+conda activate DCSR
+pip install -r requirements.txt
 ```
 
-Or, you can also   set up the environment from the provided `environment.yml`:
-```
-conda env create -f environment.yml
-conda activate IIVI
-```
 
 ## Quick Start
 ```
