@@ -35,16 +35,16 @@ mv CameraFusion.zip ./data
 cd ./data
 unzip CameraFusion.zip
 ```
-For CUFED5 dataset, can be download from [SRNTT repo](https://github.com/ZZUTK/SRNTT).
+CUFED5 dataset can be download from [SRNTT repo](https://github.com/ZZUTK/SRNTT).
 
 ## Quick Start
 You may download the pretrained model [here]().
 
 ```
-For 4K test (with ground-truth High-Resolution images):
+# For 4K test (with ground-truth High-Resolution images):
 sh test.py
 
-For 8K test (without ground-truth High-Resolution images):
+# For 8K test (without ground-truth High-Resolution images):
 sh test_8k.sh
 ```
 
