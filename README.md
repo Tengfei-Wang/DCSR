@@ -16,8 +16,6 @@ cd DualCameraSR
 ```
 
 ### Environment
-This code is based on PyTorch.
-
 The environment can be simply set up by Anaconda:
 ```
 conda create -n DCSR python=3.7
@@ -44,8 +42,11 @@ You may download the pretrained model [here]().
 # For 4K test (with ground-truth High-Resolution images):
 sh test.py
 
-# For 8K test (without ground-truth High-Resolution images):
+# For 8K test (without SRA):
 sh test_8k.sh
+
+# For 8K test (with SRA):
+sh test_8k_SRA.sh
 ```
 
 
