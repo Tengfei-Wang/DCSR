@@ -57,7 +57,7 @@ The trained model should perform well on 4K test, but may suffer performance deg
 
 After the regular training, we can use Self-supervised Real-image Adaptation (SRA) to finetune the trained model for real-world 8K image applications:
 ```
-sh train_finetune.sh
+sh train_SRA.sh
 ```
 
 ## Citation
