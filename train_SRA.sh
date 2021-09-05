@@ -1,11 +1,11 @@
 CUDA_VISIBLE_DEVICES=9s python3 main.py  --save SRA \
                     		                --save_model \
-                    										--pre_train  ./experiments/basic/model/model_latest.pt \
+                                        --pre_train  ./experiments/basic/model/model_latest.pt \
                                         --loss 1*L1+0.1*contextual_ref \
-                    										--dir_train_LR './data/CameraFusion/train/LR/x1/' \
-                    										--dir_train_ref './data/CameraFusion/train/Ref/x1/' \
-                     										--dir_test_LR './data/CameraFusion/val/LR/x1/' \
-                    										--dir_test_ref './data/CameraFusion/val/Ref/x1/' \
+                                        --dir_train_LR './data/CameraFusion/train/LR/x1/' \
+                                        --dir_train_ref './data/CameraFusion/train/Ref/x1/' \
+                                        --dir_test_LR './data/CameraFusion/val/LR/x1/' \
+                                        --dir_test_ref './data/CameraFusion/val/Ref/x1/' \
                                         --flag_8k \
                                         --patch_size 128 \
                                         --batch_size 4 \
