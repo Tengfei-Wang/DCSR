@@ -31,7 +31,7 @@ mkdir data
 cd ./data
 unzip CameraFusion.zip
 ```
-CUFED5 dataset can be download from [SRNTT repo](https://github.com/ZZUTK/SRNTT).
+
 
 ## Quick Start
 The pretrained models have been put in `./experiments/pretrain`. For quick test, run the scipts: 
