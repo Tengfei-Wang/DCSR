@@ -27,9 +27,7 @@ pip install -r requirements.txt
 Download our CameraFusion dataset from [this link](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing).
 This dataset currently consists of 143 pairs of telephoto and wide-angle images in 4K resolution captured by smartphone dual-cameras.
 ```
-cd DualCameraSR
 mkdir data
-mv CameraFusion.zip ./data
 cd ./data
 unzip CameraFusion.zip
 ```
