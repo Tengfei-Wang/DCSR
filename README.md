@@ -1,7 +1,7 @@
-# Dual Camera Super-Resolution
+# DCSR: Dual Camera Super-Resolution
 Implementation for our ICCV 2021 paper: Dual-Camera Super-Resolution with Aligned Attention Modules
 
-[paper]( ) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video]( )
+[paper](https://arxiv.org/abs/2109.01349) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video]( )
 
 <img src="pics/demo.png" width="720px"/> 
 
