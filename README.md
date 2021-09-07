@@ -65,7 +65,7 @@ sh train_SRA.sh
 
 More 2X SR results on CameraFusion dataset can be found in our webpage.
 
-<img src="pics/result-cufed.jpg" width="435px"/>  <img src="pics/result-CF.jpg" width="420px"/> 
+<img src="pics/result-cufed.jpg" width="415px"/>  <img src="pics/result-CF.jpg" width="400px"/> 
 
 ## Citation
 If you find this work useful for your research, please cite:
