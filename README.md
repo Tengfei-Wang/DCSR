@@ -1,7 +1,7 @@
 # DCSR: Dual Camera Super-Resolution
 Implementation for our ICCV 2021 oral paper: Dual-Camera Super-Resolution with Aligned Attention Modules
 
-[paper](https://arxiv.org/abs/2109.01349) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video]( )
+[paper](https://arxiv.org/abs/2109.01349) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video]( ) | [results on CUFED5](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7)
 
 <img src="pics/demo.png" width="720px"/> 
 
@@ -63,7 +63,7 @@ sh train_SRA.sh
 ## Results
 4X SR results on CUFED5 testset can be found in [this link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7).
 
-More 2X SR results on CameraFusion dataset can be found in our webpage.
+More 2X SR results on CameraFusion dataset can be found in our [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html).
 
 <img src="pics/result-cufed.jpg" width="415px"/>  <img src="pics/result-CF.jpg" width="400px"/> 
 
