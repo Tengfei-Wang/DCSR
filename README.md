@@ -60,6 +60,11 @@ After the regular training, we can use Self-supervised Real-image Adaptation (SR
 sh train_SRA.sh
 ```
 
+## Results
+4X SR results on CUFED5 testset can be found in [this link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7).
+
+More 2X SR results on CameraFusion dataset can be found in our webpage.
+
 ## Citation
 If you find this work useful for your research, please cite:
 ``` 
