@@ -3,10 +3,11 @@ Implementation for our ICCV 2021 oral paper: Dual-Camera Super-Resolution with A
 
 [paper](https://arxiv.org/abs/2109.01349) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video]( ) | [results on CUFED5](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7)
 
-<img src="pics/demo.png" width="720px"/> 
 
 ## Introduction
 We present a novel approach to reference-based super-resolution (RefSR) with the focus on real-world dual-camera super-resolution (DCSR).
+
+<img src="pics/demo.png" width="720px"/> 
 
 ## Setup
 ### Installation
