@@ -5,7 +5,7 @@ Implementation for our ICCV 2021 oral paper: Dual-Camera Super-Resolution with A
 
 
 ## Introduction
-We present a novel approach to reference-based super-resolution (RefSR) with the focus on real-world dual-camera super-resolution (DCSR).
+We present a novel approach to reference-based super resolution (RefSR) with the focus on real-world dual-camera super resolution (DCSR).
 
 <img src="pics/demo.png" width="720px"/> 
 
