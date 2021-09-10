@@ -9,6 +9,13 @@ We present a novel approach to reference-based super resolution (RefSR) with the
 
 <img src="pics/demo.png" width="720px"/> 
 
+## Results
+4X SR results on CUFED5 testset can be found in [this link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7).
+
+More 2X SR results on CameraFusion dataset can be found in our [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html).
+
+<img src="pics/result-cufed.jpg" width="415px"/>  <img src="pics/result-CF.jpg" width="400px"/> 
+
 ## Setup
 ### Installation
 ```
@@ -61,12 +68,6 @@ After the regular training, we can use Self-supervised Real-image Adaptation (SR
 sh train_SRA.sh
 ```
 
-## Results
-4X SR results on CUFED5 testset can be found in [this link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7).
-
-More 2X SR results on CameraFusion dataset can be found in our [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html).
-
-<img src="pics/result-cufed.jpg" width="415px"/>  <img src="pics/result-CF.jpg" width="400px"/> 
 
 ## Citation
 If you find this work useful for your research, please cite:
