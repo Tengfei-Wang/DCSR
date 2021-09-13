@@ -40,7 +40,6 @@ cd ./data
 unzip CameraFusion.zip
 ```
 
-
 ## Quick Start
 The pretrained models have been put in `./experiments/pretrain`. For quick test, run the scipts: 
 
