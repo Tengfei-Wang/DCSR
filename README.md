@@ -3,7 +3,7 @@
 > Dual-Camera Super-Resolution with Aligned Attention Modules    
 > ICCV 2021 (Oral Presentation)     
 
-[paper](https://arxiv.org/abs/2109.01349) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video](https://youtu.be/Tn_DCqkORE0) | [results on CUFED5](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7)
+[paper](https://arxiv.org/abs/2109.01349) | [project website](https://tengfei-wang.github.io/Dual-Camera-SR/index.html) | [dataset](https://drive.google.com/file/d/1SxU6D1yYTTnZnCyytTObsZxZQigWLciT/view?usp=sharing) | [demo video](https://youtu.be/UJmex7KfpaI) | [results on CUFED5](https://hkustconnect-my.sharepoint.com/:f:/g/personal/tfwang_connect_ust_hk/EidZ5B1jPC9PmTlSUtrMbN0B4a2VY1hXrteYZevijllhJg?e=hQwva7)
 
 
 ## Introduction
