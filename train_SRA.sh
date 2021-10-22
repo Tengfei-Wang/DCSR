@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=9s python3 main.py  --save SRA \
+CUDA_VISIBLE_DEVICES=9 python3 main.py  --save SRA \
                                         --save_model \
                                         --pre_train  ./experiments/basic/model/model_latest.pt \
                                         --loss 1*L1+0.1*contextual_ref \
