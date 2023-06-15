@@ -47,7 +47,7 @@ The pretrained models have been put in `./experiments/pretrain`. For quick test,
 
 ```
 # For 4K test (with ground-truth High-Resolution images):
-sh test.py
+sh test.sh
 
 # For 8K test (without SRA):
 sh test_8k.sh
